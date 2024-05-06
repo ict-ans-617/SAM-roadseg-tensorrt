@@ -1,0 +1,8 @@
+__pycache__
+camera*
+*output*
+
+ckpts
+weights
+
+*checkpoint*
